@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://gold-chameleon-cjban6a6.ws-us03.gitpod.io",
+    "address": "https://salmon-swift-xrlxmok7.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -165,7 +165,7 @@
         {
             "slug": "12-Dynamic-HTML-String",
             "title": "12-Dynamic-HTML-String",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Dynamic-HTML-String",
             "translations": [
                 "es",
